@@ -5,7 +5,7 @@
   "description": "Strapi auth api",
   "scripts": {
     "develop": "strapi develop",
-    "start": "strapi start",
+    "start": "strapi develop",
     "build": "strapi build",
     "strapi": "strapi"
   },
